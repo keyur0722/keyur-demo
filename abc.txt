@@ -3,9 +3,4 @@ Mango
 Banana
 Orange
 Grapes
-Papaya
 
-onion
-tomato
-brinjal
-carrot
